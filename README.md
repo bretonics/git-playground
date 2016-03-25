@@ -3,7 +3,4 @@ Just Git'ing it right
 
 
 ##Changes
-* This is from online
-
-Hello from the computer
-
+Let's make a change online, pull locally while changes were made locally simultaneously...
